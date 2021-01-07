@@ -38,3 +38,8 @@ Psych!! You thought I would list coding languages!
 - [ ] read Dante's * *Inferno* *
 - [ ] ~~get better at coding~~. (well I know 110 got me)
 
+## Favorite Quotes
+
+The words of Friar Lawrence (* *Romeo and Juliet* *):
+>These volent delights have violent ends
+
