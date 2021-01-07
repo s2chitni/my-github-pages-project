@@ -65,5 +65,7 @@ Radiohead's [Homepage](https://www.radiohead.com) ... I mean it's just so weird.
 
 Well I worked pretty hard on [it](https://github.com/s2chitni/my-github-pages-project/blob/main/README.md#things-i-wanna-do-this-quarter).
 
+## Let's test out a relative link
 
+[Check it out](testfolder/testfile.md)
 
