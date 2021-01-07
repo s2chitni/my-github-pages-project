@@ -40,6 +40,6 @@ Psych!! You thought I would list coding languages!
 
 ## Favorite Quotes
 
-The words of Friar Lawrence (* *Romeo and Juliet* *):
->These volent delights have violent ends
+The words of Friar Lawrence ( * *Romeo and Juliet* * ):
+>**These violent delights have violent ends**
 
