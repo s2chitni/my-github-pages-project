@@ -36,5 +36,5 @@ Psych!! You thought I would list coding languages!
 - [ ] binge Altered Carbon
 - [ ] listen to **Fleetwood Mac** (like just listen to **Fleetwood Mac)** )
 - [ ] read Dante's * *Inferno* *
-~~- [ ] get better at coding ~~. (well I know 110 got me)
+- [ ] ~~get better at coding~~. (well I know 110 got me)
 
