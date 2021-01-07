@@ -20,7 +20,7 @@ Psych!! You thought I would list coding languages!
 2. C++
 3. Python
    - it's so easy
-    - love it to the core
+      - love it to the core
 4. C
    - Not a big fan honestly
 5. Perl
