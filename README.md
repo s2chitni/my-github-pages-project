@@ -43,8 +43,10 @@ Psych!! You thought I would list coding languages!
 The words of Friar Lawrence ( *Romeo and Juliet* )
 >**These violent delights have violent ends**
 
+
 From Martin Scorsese's **Taxi Driver**
 >**One of these days, I'm gonna get organized.**
+
 
 From the movie *Before Sunrise*
 >**Everything that's interesting costs a little bit of money.**
