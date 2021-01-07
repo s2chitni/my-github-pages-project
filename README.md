@@ -1,6 +1,6 @@
 # Welcome to Shwet's User Page
 
-![useful image]({{ site.url }}/assets/image.png)
+![nerd](https://user-images.githubusercontent.com/46432980/103955999-6ddb4780-50fc-11eb-88ef-313c80a0036f.jpg)
 
 ## Introduction
 
