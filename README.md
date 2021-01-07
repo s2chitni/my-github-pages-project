@@ -22,8 +22,19 @@ Psych!! You thought I would list coding languages!
    - it's so easy
       - love it to the core
 4. C
-   - Not a big fan honestly
+   - not a big fan honestly
 5. Perl
 6. System Verilog
    - best if we don't talk about this one
 7. JavaScript
+
+## Things I Wanna do this quarter
+
+- [ ] play League
+- [ ] play DOOM (can't get enough of this game)
+- [x] try not to get COVID
+- [ ] binge Altered Carbon
+- [ ] listen to **Fleetwood Mac** (like just listen to **Fleetwood Mac)** )
+- [ ] read Dante's * *Inferno* *
+~~- [ ] get better at coding ~~. (well I know 110 got me)
+
