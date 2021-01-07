@@ -1,6 +1,6 @@
 # Welcome to Shwet's User Page
 
-![nerd](https://user-images.githubusercontent.com/46432980/103955999-6ddb4780-50fc-11eb-88ef-313c80a0036f.jpg)
+<img width="642" alt="Screen Shot 2021-01-07 at 3 32 30 PM" src="https://user-images.githubusercontent.com/46432980/103956590-b7786200-50fd-11eb-88ea-a139653186ab.png">
 
 ## Introduction
 
