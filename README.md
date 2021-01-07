@@ -50,3 +50,9 @@ From Martin Scorsese's **Taxi Driver**
 
 From the movie *Before Sunrise*
 >**Everything that's interesting costs a little bit of money.**
+
+## Favorite Piece of Code
+
+'''
+print("Hello world!")
+'''
