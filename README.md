@@ -35,11 +35,11 @@ Psych!! You thought I would list coding languages!
 - [x] try not to get COVID
 - [ ] binge Altered Carbon
 - [ ] listen to **Fleetwood Mac** (like just listen to **Fleetwood Mac)** )
-- [ ] read Dante's * *Inferno* *
+- [ ] read Dante's *Inferno*
 - [ ] ~~get better at coding~~. (well I know 110 got me)
 
 ## Favorite Quotes
 
-The words of Friar Lawrence ( * *Romeo and Juliet* * ):
+The words of Friar Lawrence ( *Romeo and Juliet* ):
 >**These violent delights have violent ends**
 
