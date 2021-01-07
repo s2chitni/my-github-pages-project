@@ -25,4 +25,5 @@ Psych!! You thought I would list coding languages!
   - Not a big fan honestly
 5. Perl
 6. System Verilog
+  - best if we don't talk about this one
 7. JavaScript
