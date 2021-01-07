@@ -12,14 +12,17 @@ Also that's what I look like so yeah I am a pretty cool person.
 - Hindi
 - Marathi
 
-Psych!! You thought I would list programming languages!
+Psych!! You thought I would list coding languages!
 
 ## Coding Languages I know
 
 1. Java
 2. C++
 3. Python
+  - it's so easy
+    - love it to the core
 4. C
+  - Not a big fan honestly
 5. Perl
 6. System Verilog
 7. JavaScript
