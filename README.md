@@ -1,5 +1,7 @@
 # Welcome to Shwet's User Page
 
+![useful image]({{ site.url }}/assets/image.png)
+
 ## Introduction
 
 
