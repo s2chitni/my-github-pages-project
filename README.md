@@ -53,6 +53,6 @@ From the movie *Before Sunrise*
 
 ## Favorite Piece of Code
 
-'''
-print("Hello world!")
-'''
+```
+print("Hello, world!")
+```
